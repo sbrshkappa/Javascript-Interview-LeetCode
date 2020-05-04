@@ -1,0 +1,6 @@
+{
+    "name": "js-interview-prep",
+    "jest": {
+        "verbose": true
+    }
+}
