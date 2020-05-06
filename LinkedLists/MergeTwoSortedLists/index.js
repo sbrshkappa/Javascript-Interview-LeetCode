@@ -9,11 +9,12 @@ Output: 1->1->2->3->4->4
 
 
 
-//Definition for singly-linked list.
+/*Definition for singly-linked list.
 function ListNode(val) {
      this.val = val;
      this.next = null;
  }
+ */
  
 /*
  * @param {ListNode} l1
@@ -23,7 +24,6 @@ function ListNode(val) {
 
 
 const mergeTwoLists = function(l1, l2) {
-    let newHead = new ListNode();
     let curr1 = l1;
     let curr2 = l2;
     
