@@ -1,5 +1,5 @@
-<h1 align="center"> Javascript-Interview-LeetCode </h1>
-<h3 align="center">Collection of javascript solutions to leetcode problems</h3>
+<h1 align="center"> Javascript Techincal Interview Coding Questions with Solutions</h1>
+<h3 align="center">Collection of Javascript solutions to leetcode problems</h3>
 
 ## Solutions:
 
