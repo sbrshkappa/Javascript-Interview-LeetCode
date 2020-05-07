@@ -1,2 +1,25 @@
-# Javascript-Interview-LeetCode
-Collection of javascript solutions to leetcode problems
+<h1 align="center"> Javascript-Interview-LeetCode </h1>
+<h3 align="center">Collection of javascript solutions to leetcode problems</h3>
+
+## Solutions:
+
+
+- [String Manipulation](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Strings)
+    - [Longest Substring without Repeating Characters](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Strings/LongestSubstringWithoutRepeatingCharacters)
+    
+- [Arrays](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Arrays)
+    - [Container with most water](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Arrays/ContainerWithMostWater)
+
+- [Linked Lists](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/LinkedLists)
+    - [Add Two Numbers](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/blob/master/LinkedLists/AddTwoNumbers)
+    - [Copy List with Random Pointer](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/LinkedLists/CopyListWithRandomPointer)
+    - [Merge Two Sorted Lists](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/LinkedLists/MergeTwoSortedLists)
+    - [Merge K Sorted Lists](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/LinkedLists/MergeKSortedLists)
+    - [Reverse List](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/LinkedLists/ReverseList)
+    - [Reverse Nodes in K-Groups](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/LinkedLists/ReverseNodesink-Group)
+
+- [Trees and Graphs]
+    - [Breadth First Search Node Distances using Adjacency Matrix](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Trees%20and%20Graphs/BreadthFirstSearchDistances-AM)
+    - [Level Order Traversal](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Trees%20and%20Graphs/Level%20Order%20Traversal)
+    - [Symmetric Tree](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Trees%20and%20Graphs/Symmetric%20Tree)
+    - [Validate Binart Search Tree](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Trees%20and%20Graphs/ValidateBinarySearchTree)
