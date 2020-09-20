@@ -7,6 +7,7 @@
 - [Strings](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Strings)
     - [Longest Substring without Repeating Characters](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Strings/LongestSubstringWithoutRepeatingCharacters)
     - [Is Anagram](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Strings/IsAnagram)
+    - [Group Anagrams](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Strings/GroupAnagrams)
     
 - [Arrays](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Arrays)
     - [Container with most water](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Arrays/ContainerWithMostWater)
