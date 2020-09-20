@@ -33,3 +33,4 @@
 
 - [Dynamic Programming](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Dynamic%20Programming)
     - [Climbing Stairs](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Dynamic%20Programming/ClimbingStairs)
+    - [House Robber](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Dynamic%20Programming/HouseRobber)
