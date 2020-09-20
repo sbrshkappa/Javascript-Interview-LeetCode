@@ -4,6 +4,6 @@
         "verbose": true
     },
     "dependencies": {
-        "jest": "^26.0.0"
+        "jest": "^26.4.2"
     }
 }
