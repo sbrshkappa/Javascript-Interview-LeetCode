@@ -4,11 +4,13 @@
 ## Solutions:
 
 
-- [String Manipulation](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Strings)
+- [Strings](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Strings)
     - [Longest Substring without Repeating Characters](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Strings/LongestSubstringWithoutRepeatingCharacters)
+    - [Is Anagram](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Strings/IsAnagram)
     
 - [Arrays](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Arrays)
     - [Container with most water](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Arrays/ContainerWithMostWater)
+    - [Merge Sorted Arrays](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Arrays/MergeSortedArrays)
 
 - [Linked Lists](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/LinkedLists)
     - [Add Two Numbers](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/blob/master/LinkedLists/AddTwoNumbers)
