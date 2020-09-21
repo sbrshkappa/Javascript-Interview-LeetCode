@@ -35,3 +35,4 @@
     - [Climbing Stairs](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Dynamic%20Programming/ClimbingStairs)
     - [House Robber](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Dynamic%20Programming/HouseRobber)
     - [Can Jump](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Dynamic%20Programming/CanJump)
+    - [Longest Increasing Subsequence](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Dynamic%20Programming/LongestIncreasingSubsequence)
