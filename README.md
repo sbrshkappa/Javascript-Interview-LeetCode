@@ -38,3 +38,4 @@
     - [Longest Increasing Subsequence](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Dynamic%20Programming/LongestIncreasingSubsequence)
     - [Coin Change](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Dynamic%20Programming/CoinChange)
     - [Unique Paths](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Dynamic%20Programming/UniquePaths)
+    - [Minimum Path Sum](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Dynamic%20Programming/MinimumPathSum)
