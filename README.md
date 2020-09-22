@@ -13,6 +13,7 @@
 - [Arrays](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Arrays)
     - [Container with most water](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Arrays/ContainerWithMostWater)
     - [Merge Sorted Arrays](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Arrays/MergeSortedArrays)
+    - [Contains Duplicates](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Arrays/ContainsDuplicate)
 
 - [Linked Lists](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/LinkedLists)
     - [Add Two Numbers](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/blob/master/LinkedLists/AddTwoNumbers)
