@@ -18,6 +18,7 @@
     - [Best Time to Buy and Sell Stock](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Arrays/BestTimeToBuyAndSellStock)
     - [Two Sum](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Arrays/TwoSum)
     - [Three Sum](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Arrays/ThreeSum)
+    - [Maximum Sub-Array](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Arrays/MaximumSubArray)
 
 - [Linked Lists](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/LinkedLists)
     - [Add Two Numbers](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/blob/master/LinkedLists/AddTwoNumbers)
