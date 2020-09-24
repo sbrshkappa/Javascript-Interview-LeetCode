@@ -12,14 +12,15 @@
     
     
 - [Arrays](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Arrays)
-    - [Container with most water](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Arrays/ContainerWithMostWater) ![medium](https://img.shields.io/badge/-medium-orange)
     - [Merge Sorted Arrays](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Arrays/MergeSortedArrays) ![easy](https://img.shields.io/badge/-easy-brightgreen)
     - [Contains Duplicates](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Arrays/ContainsDuplicate) ![easy](https://img.shields.io/badge/-easy-brightgreen)
     - [Best Time to Buy and Sell Stock](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Arrays/BestTimeToBuyAndSellStock) ![easy](https://img.shields.io/badge/-easy-brightgreen)
     - [Two Sum](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Arrays/TwoSum) ![easy](https://img.shields.io/badge/-easy-brightgreen)
     - [Maximum Sub-Array](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Arrays/MaximumSubArray) ![easy](https://img.shields.io/badge/-easy-brightgreen)
     - [Three Sum](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Arrays/ThreeSum) ![medium](https://img.shields.io/badge/-medium-orange)
-     - [Product of Array Except Self](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Arrays/ProductOfArrayExceptSelf) ![medium](https://img.shields.io/badge/-medium-orange)
+    - [Product of Array Except Self](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Arrays/ProductOfArrayExceptSelf) ![medium](https://img.shields.io/badge/-medium-orange)
+    - [Container with most water](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Arrays/ContainerWithMostWater) ![medium](https://img.shields.io/badge/-medium-orange)
+
 
 - [Linked Lists](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/LinkedLists)
     - [Add Two Numbers](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/blob/master/LinkedLists/AddTwoNumbers)
@@ -39,10 +40,10 @@
     - [Course Schedules](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Trees%20and%20Graphs/Course%20Schedule)
 
 - [Dynamic Programming](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Dynamic%20Programming)
-    - [Climbing Stairs](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Dynamic%20Programming/ClimbingStairs)
-    - [House Robber](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Dynamic%20Programming/HouseRobber)
-    - [Can Jump](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Dynamic%20Programming/CanJump)
-    - [Longest Increasing Subsequence](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Dynamic%20Programming/LongestIncreasingSubsequence)
-    - [Coin Change](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Dynamic%20Programming/CoinChange)
-    - [Unique Paths](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Dynamic%20Programming/UniquePaths)
-    - [Minimum Path Sum](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Dynamic%20Programming/MinimumPathSum)
+    - [Climbing Stairs](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Dynamic%20Programming/ClimbingStairs) ![easy](https://img.shields.io/badge/-easy-brightgreen)
+    - [House Robber](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Dynamic%20Programming/HouseRobber) ![easy](https://img.shields.io/badge/-easy-brightgreen)
+    - [Jump Game](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Dynamic%20Programming/CanJump) ![medium](https://img.shields.io/badge/-medium-orange)
+    - [Longest Increasing Subsequence](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Dynamic%20Programming/LongestIncreasingSubsequence) ![medium](https://img.shields.io/badge/-medium-orange)
+    - [Coin Change](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Dynamic%20Programming/CoinChange) ![medium](https://img.shields.io/badge/-medium-orange)
+    - [Unique Paths](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Dynamic%20Programming/UniquePaths) ![medium](https://img.shields.io/badge/-medium-orange)
+    - [Minimum Path Sum](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Dynamic%20Programming/MinimumPathSum) ![medium](https://img.shields.io/badge/-medium-orange)
