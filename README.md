@@ -16,7 +16,7 @@
     - [Contains Duplicates](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Arrays/ContainsDuplicate)
     - [Product of Array Except Self](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Arrays/ProductOfArrayExceptSelf)
     - [Best Time to Buy and Sell Stock](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Arrays/BestTimeToBuyAndSellStock)
-    - [Two Sum](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Arrays/TwoSum)![easy](https://img.shields.io/badge/-easy-brightgreen)
+    - [Two Sum](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Arrays/TwoSum) ![easy](https://img.shields.io/badge/-easy-brightgreen)
     - [Three Sum](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Arrays/ThreeSum)
     - [Maximum Sub-Array](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Arrays/MaximumSubArray)
 
