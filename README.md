@@ -23,7 +23,7 @@
 
 
 - [Linked Lists](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/LinkedLists)
-    - [ ] [Add Two Numbers](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/blob/master/LinkedLists/AddTwoNumbers)
+    - [x] [Add Two Numbers](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/blob/master/LinkedLists/AddTwoNumbers)
     - [ ] [Copy List with Random Pointer](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/LinkedLists/CopyListWithRandomPointer)
     - [ ] [Merge Two Sorted Lists](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/LinkedLists/MergeTwoSortedLists)
     - [ ] [Merge K Sorted Lists](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/LinkedLists/MergeKSortedLists)
