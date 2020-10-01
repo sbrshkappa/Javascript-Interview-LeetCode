@@ -17,17 +17,19 @@
     - [x] [Best Time to Buy and Sell Stock](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Arrays/BestTimeToBuyAndSellStock) ![easy](https://img.shields.io/badge/-easy-brightgreen)
     - [x] [Two Sum](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Arrays/TwoSum) ![easy](https://img.shields.io/badge/-easy-brightgreen)
     - [x] [Maximum Sub-Array](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Arrays/MaximumSubArray) ![easy](https://img.shields.io/badge/-easy-brightgreen)
+    - [x] [Number of Recent Calls/Requests Made](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Arrays/NumberOfRecentCalls) ![easy](https://img.shields.io/badge/-easy-brightgreen)
     - [x] [Three Sum](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Arrays/ThreeSum) ![medium](https://img.shields.io/badge/-medium-orange)
     - [x] [Product of Array Except Self](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Arrays/ProductOfArrayExceptSelf) ![medium](https://img.shields.io/badge/-medium-orange)
     - [x] [Container with most water](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Arrays/ContainerWithMostWater) ![medium](https://img.shields.io/badge/-medium-orange)
+    
 
 
 - [Linked Lists](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/LinkedLists)
     - [x] [Add Two Numbers](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/blob/master/LinkedLists/AddTwoNumbers)
-    - [ ] [Copy List with Random Pointer](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/LinkedLists/CopyListWithRandomPointer)
-    - [ ] [Merge Two Sorted Lists](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/LinkedLists/MergeTwoSortedLists)
-    - [ ] [Merge K Sorted Lists](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/LinkedLists/MergeKSortedLists)
-    - [ ] [Reverse List](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/LinkedLists/ReverseList)
+    - [x] [Copy List with Random Pointer](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/LinkedLists/CopyListWithRandomPointer)
+    - [x] [Merge Two Sorted Lists](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/LinkedLists/MergeTwoSortedLists)
+    - [x] [Merge K Sorted Lists](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/LinkedLists/MergeKSortedLists)
+    - [x] [Reverse List](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/LinkedLists/ReverseList)
     - [ ] [Reverse Nodes in K-Groups](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/LinkedLists/ReverseNodesink-Group)
 
 - [Trees and Graphs](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Trees%20and%20Graphs)
