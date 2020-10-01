@@ -18,6 +18,7 @@
     - [x] [Two Sum](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Arrays/TwoSum) ![easy](https://img.shields.io/badge/-easy-brightgreen)
     - [x] [Maximum Sub-Array](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Arrays/MaximumSubArray) ![easy](https://img.shields.io/badge/-easy-brightgreen)
     - [x] [Number of Recent Calls/Requests Made](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Arrays/NumberOfRecentCalls) ![easy](https://img.shields.io/badge/-easy-brightgreen)
+    - [x] [Maximum Distance in Sorted Arrays](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Arrays/MaximumDistanceInArrays) ![easy](https://img.shields.io/badge/-easy-brightgreen)
     - [x] [Three Sum](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Arrays/ThreeSum) ![medium](https://img.shields.io/badge/-medium-orange)
     - [x] [Product of Array Except Self](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Arrays/ProductOfArrayExceptSelf) ![medium](https://img.shields.io/badge/-medium-orange)
     - [x] [Container with most water](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Arrays/ContainerWithMostWater) ![medium](https://img.shields.io/badge/-medium-orange)
