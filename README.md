@@ -39,6 +39,7 @@
     - [ ] [Symmetric Tree](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Trees%20and%20Graphs/Symmetric%20Tree)
     - [ ] [Validate Binary Search Tree](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Trees%20and%20Graphs/ValidateBinarySearchTree)
     - [ ] [Zigzag Level Order Traversal](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Trees%20and%20Graphs/ZigZagLevelOrder)
+    - [x] [Number of Islands](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Trees%20and%20Graphs/NumberOfIslands) ![medium](https://img.shields.io/badge/-medium-orange)
     - [ ] [Word Ladder](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Trees%20and%20Graphs/Word%20Ladder) ![hard](https://img.shields.io/badge/-hard-red)
     - [ ] [Course Schedules](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Trees%20and%20Graphs/Course%20Schedule)
 
