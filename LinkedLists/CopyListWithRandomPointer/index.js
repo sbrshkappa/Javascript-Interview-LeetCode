@@ -76,4 +76,36 @@ const copyRandomList = function(head) {
     
 };
 
-modules.export = copyRandomList;
+const copyRandomList_O1Space = function(head) {
+    if (head === null) return null;
+    
+    let current = head;
+    
+    while(current !== null){
+        let newNode = new Node(current.val);
+        newNode.next = current.next;
+        current.next = newNode;
+        current = newNode.next;
+    }
+    
+    current = head;
+    while(current !== null){
+        current.next.random = (current.random !== null) ? current.random.next : null;
+        current = current.next.next;
+    }
+    
+    let oldList = head;
+    let newList = head.next;
+    let newHead = head.next;
+    
+    while(oldList !== null){
+        oldList.next = oldList.next.next;
+        newList.next = (newList.next !== null) ? newList.next.next : null;
+        oldList = oldList.next;
+        newList = newList.next;
+    }
+    
+    return newHead;
+}
+
+modules.export = {copyRandomList, copyRandomList_O1Space};
