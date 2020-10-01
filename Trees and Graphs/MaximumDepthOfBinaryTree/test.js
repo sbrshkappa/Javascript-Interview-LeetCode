@@ -1,0 +1,2 @@
+const maxDepth = require('./index');
+

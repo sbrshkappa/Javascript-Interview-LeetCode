@@ -35,7 +35,8 @@
 
 - [Trees and Graphs](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Trees%20and%20Graphs)
     - [ ] [Breadth First Search Node Distances using Adjacency Matrix](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Trees%20and%20Graphs/BreadthFirstSearchDistances-AM)
-    - [ ] [Level Order Traversal](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Trees%20and%20Graphs/Level%20Order%20Traversal)
+    - [x] [Maximum Depth of Binary Tree](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Trees%20and%20Graphs/MaximumDepthOfBinaryTree) ![easy](https://img.shields.io/badge/-easy-brightgreen) 
+    - [x] [Level Order Traversal](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Trees%20and%20Graphs/Level%20Order%20Traversal) ![medium](https://img.shields.io/badge/-medium-orange)
     - [ ] [Symmetric Tree](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Trees%20and%20Graphs/Symmetric%20Tree)
     - [ ] [Validate Binary Search Tree](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Trees%20and%20Graphs/ValidateBinarySearchTree)
     - [ ] [Zigzag Level Order Traversal](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Trees%20and%20Graphs/ZigZagLevelOrder)
