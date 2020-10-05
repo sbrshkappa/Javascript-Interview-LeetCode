@@ -24,6 +24,7 @@
     - [x] [Container with most water](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Arrays/ContainerWithMostWater) ![medium](https://img.shields.io/badge/-medium-orange)
     - [x] [Remove Covered Intervals](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Arrays/RemoveCoveredIntervals) ![medium](https://img.shields.io/badge/-medium-orange) ![greedy](https://img.shields.io/badge/-greedy-blue)
     - [x] [K-Diff Pairs in Array](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Arrays/K-DiffPairsInArray) ![medium](https://img.shields.io/badge/-medium-orange)
+    - [x] [Combination Sum III](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Arrays/CombinationSumIII) ![medium](https://img.shields.io/badge/-medium-orange) ![backtracking](https://img.shields.io/badge/-backtracking-blue)
     
 
 
