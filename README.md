@@ -31,6 +31,7 @@
     - [x] [Merge Two Sorted Lists](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/LinkedLists/MergeTwoSortedLists)
     - [x] [Merge K Sorted Lists](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/LinkedLists/MergeKSortedLists)
     - [x] [Reverse List](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/LinkedLists/ReverseList)
+    - [x] [Linked List Cycle](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/LinkedLists/LinkedListCycle) ![easy](https://img.shields.io/badge/-easy-brightgreen)
     - [ ] [Reverse Nodes in K-Groups](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/LinkedLists/ReverseNodesink-Group)
 
 - [Trees and Graphs](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Trees%20and%20Graphs)
