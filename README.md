@@ -39,6 +39,7 @@
     - [x] [Reverse List](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/LinkedLists/ReverseList)
     - [x] [Linked List Cycle](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/LinkedLists/LinkedListCycle) ![easy](https://img.shields.io/badge/-easy-brightgreen)
     - [x] [Remove Nth Node from the End of the List](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/LinkedLists/RemoveNthNodeFromEndOfList) ![medium](https://img.shields.io/badge/-medium-orange)
+    - [x] [Rotate List](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/LinkedLists/RotateList) ![medium](https://img.shields.io/badge/-medium-orange)
     - [ ] [Reverse Nodes in K-Groups](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/LinkedLists/ReverseNodesink-Group)
 
 - [Trees and Graphs](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Trees%20and%20Graphs)
