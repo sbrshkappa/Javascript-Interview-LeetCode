@@ -40,6 +40,7 @@
 
 - [Trees and Graphs](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Trees%20and%20Graphs)
     - [ ] [Breadth First Search Node Distances using Adjacency Matrix](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Trees%20and%20Graphs/BreadthFirstSearchDistances-AM)
+    - [x] [Invert a Binary Tree](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Trees%20and%20Graphs/InvertBinaryTree) ![easy](https://img.shields.io/badge/-easy-brightgreen) 
     - [x] [Maximum Depth of Binary Tree](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Trees%20and%20Graphs/MaximumDepthOfBinaryTree) ![easy](https://img.shields.io/badge/-easy-brightgreen) 
     - [x] [Level Order Traversal](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Trees%20and%20Graphs/Level%20Order%20Traversal) ![medium](https://img.shields.io/badge/-medium-orange)
     - [ ] [Symmetric Tree](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Trees%20and%20Graphs/Symmetric%20Tree)
