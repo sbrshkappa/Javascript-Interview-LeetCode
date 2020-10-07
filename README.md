@@ -4,6 +4,9 @@
 ## Solutions:
 
 
+- [Bitwise Manipulation](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Bitwise%20Manipulation)
+    - [x] [Complement of Base 10 Integer](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Bitwise%20Manipulation/ComplementOfBase10Integer) ![easy](https://img.shields.io/badge/-easy-brightgreen)
+
 - [Strings](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Strings)
     - [x] [Valid Parantheses](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Strings/ValidParantheses) ![easy](https://img.shields.io/badge/-easy-brightgreen)
     - [x] [Valid Anagram](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Strings/IsAnagram) ![easy](https://img.shields.io/badge/-easy-brightgreen)
