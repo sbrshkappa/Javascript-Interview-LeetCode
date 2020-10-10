@@ -55,6 +55,7 @@
     - [x] [Number of Islands](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Trees%20and%20Graphs/NumberOfIslands) ![medium](https://img.shields.io/badge/-medium-orange)
     - [x] [Insert into Binary Search Tree](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Trees%20and%20Graphs/InsertIntoBinarySearchTree) ![medium](https://img.shields.io/badge/-medium-orange)
     - [ ] [Word Ladder](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Trees%20and%20Graphs/Word%20Ladder) ![hard](https://img.shields.io/badge/-hard-red)
+    - [x] [Serialize and Deserialize Binary Tree](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Trees%20and%20Graphs/SerializeAndDeserializeBinaryTree) ![hard](https://img.shields.io/badge/-hard-red)
     - [ ] [Course Schedules](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Trees%20and%20Graphs/Course%20Schedule)
 
 - [Dynamic Programming](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Dynamic%20Programming)
