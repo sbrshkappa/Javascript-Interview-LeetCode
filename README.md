@@ -45,6 +45,7 @@
     - [x] [Merge K Sorted Lists](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/LinkedLists/MergeKSortedLists)
     - [x] [Reverse List](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/LinkedLists/ReverseList)
     - [x] [Linked List Cycle](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/LinkedLists/LinkedListCycle) ![easy](https://img.shields.io/badge/-easy-brightgreen)
+    - [x] [Linked List Cycle II](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/LinkedLists/LinkedListCycleII) ![medium](https://img.shields.io/badge/-medium-orange)
     - [x] [Remove Nth Node from the End of the List](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/LinkedLists/RemoveNthNodeFromEndOfList) ![medium](https://img.shields.io/badge/-medium-orange)
     - [x] [Rotate List](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/LinkedLists/RotateList) ![medium](https://img.shields.io/badge/-medium-orange)
     - [x] [Odd Even Linked List](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/LinkedLists/OddEvenLinkedList) ![medium](https://img.shields.io/badge/-medium-orange)
