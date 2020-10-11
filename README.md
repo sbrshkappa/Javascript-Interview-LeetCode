@@ -27,6 +27,7 @@
     - [x] [Maximum Distance in Sorted Arrays](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Arrays/MaximumDistanceInArrays) ![easy](https://img.shields.io/badge/-easy-brightgreen)
     - [x] [Distribute Candies](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Arrays/DistributeCandies) ![easy](https://img.shields.io/badge/-easy-brightgreen)
     - [x] [Implement Queue using Stacks](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Arrays/ImplementQueueUsingStacks) ![easy](https://img.shields.io/badge/-easy-brightgreen)
+    - [x] [Day of the Week](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Arrays/DayOfTheWeek) ![easy](https://img.shields.io/badge/-easy-brightgreen)
     - [x] [Three Sum](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Arrays/ThreeSum) ![medium](https://img.shields.io/badge/-medium-orange)
     - [x] [Product of Array Except Self](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Arrays/ProductOfArrayExceptSelf) ![medium](https://img.shields.io/badge/-medium-orange)
     - [x] [Container with most water](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Arrays/ContainerWithMostWater) ![medium](https://img.shields.io/badge/-medium-orange)
