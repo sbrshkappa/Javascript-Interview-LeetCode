@@ -11,6 +11,7 @@
     - [x] [Valid Parantheses](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Strings/ValidParantheses) ![easy](https://img.shields.io/badge/-easy-brightgreen)
     - [x] [Valid Anagram](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Strings/IsAnagram) ![easy](https://img.shields.io/badge/-easy-brightgreen)
     - [x] [Count and Say](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Strings/CountAndSay) ![easy](https://img.shields.io/badge/-easy-brightgreen)
+    - [x] [Buddy Strings](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Strings/BuddyStrings) ![easy](https://img.shields.io/badge/-easy-brightgreen)
     - [x] [Longest Substring without Repeating Characters](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Strings/LongestSubstringWithoutRepeatingCharacters) ![medium](https://img.shields.io/badge/-medium-orange)
     - [x] [Group Anagrams](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Strings/GroupAnagrams) ![medium](https://img.shields.io/badge/-medium-orange)
     - [x] [Remove Duplicate Letters](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Strings/RemoveDuplicateLetters) ![medium](https://img.shields.io/badge/-medium-orange)
