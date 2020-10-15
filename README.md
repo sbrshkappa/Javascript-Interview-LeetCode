@@ -36,6 +36,7 @@
   - [x] [K-Diff Pairs in Array](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Arrays/K-DiffPairsInArray) ![medium](https://img.shields.io/badge/-medium-orange)
   - [x] [Combination Sum III](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Arrays/CombinationSumIII) ![medium](https://img.shields.io/badge/-medium-orange) ![backtracking](https://img.shields.io/badge/-backtracking-blue)
   - [x] [Minimum Number Of Arrows To Burst Balloons](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Arrays/MinimumNumberOfArrowsToBurstBalloon) ![medium](https://img.shields.io/badge/-medium-orange)
+  - [x] [Bomb Enemies](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Arrays/BombEnemies) ![medium](https://img.shields.io/badge/-medium-orange)
 
 - [Linked Lists](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/LinkedLists)
 
