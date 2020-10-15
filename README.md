@@ -82,3 +82,4 @@
   - [x] [Coin Change](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Dynamic%20Programming/CoinChange) ![medium](https://img.shields.io/badge/-medium-orange)
   - [x] [Unique Paths](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Dynamic%20Programming/UniquePaths) ![medium](https://img.shields.io/badge/-medium-orange)
   - [x] [Minimum Path Sum](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Dynamic%20Programming/MinimumPathSum) ![medium](https://img.shields.io/badge/-medium-orange)
+  - [x] [01 Matrix](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Dynamic%20Programming/01Matrix) ![medium](https://img.shields.io/badge/-medium-orange)
