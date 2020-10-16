@@ -50,18 +50,18 @@
 
 - [Linked Lists](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/LinkedLists)
 
-  - [x] [Add Two Numbers](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/blob/master/LinkedLists/AddTwoNumbers)
-  - [x] [Copy List with Random Pointer](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/LinkedLists/CopyListWithRandomPointer)
-  - [x] [Merge Two Sorted Lists](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/LinkedLists/MergeTwoSortedLists)
-  - [x] [Merge K Sorted Lists](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/LinkedLists/MergeKSortedLists)
-  - [x] [Reverse List](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/LinkedLists/ReverseList)
+  - [x] [Merge Two Sorted Lists](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/LinkedLists/MergeTwoSortedLists) ![easy](https://img.shields.io/badge/-easy-brightgreen)
+  - [x] [Reverse List](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/LinkedLists/ReverseList) ![easy](https://img.shields.io/badge/-easy-brightgreen)
   - [x] [Linked List Cycle](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/LinkedLists/LinkedListCycle) ![easy](https://img.shields.io/badge/-easy-brightgreen)
   - [x] [Linked List Cycle II](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/LinkedLists/LinkedListCycleII) ![medium](https://img.shields.io/badge/-medium-orange)
+  - [x] [Add Two Numbers](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/blob/master/LinkedLists/AddTwoNumbers) ![medium](https://img.shields.io/badge/-medium-orange)
+  - [x] [Copy List with Random Pointer](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/LinkedLists/CopyListWithRandomPointer) ![medium](https://img.shields.io/badge/-medium-orange)
   - [x] [Remove Nth Node from the End of the List](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/LinkedLists/RemoveNthNodeFromEndOfList) ![medium](https://img.shields.io/badge/-medium-orange)
   - [x] [Rotate List](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/LinkedLists/RotateList) ![medium](https://img.shields.io/badge/-medium-orange)
   - [x] [Odd Even Linked List](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/LinkedLists/OddEvenLinkedList) ![medium](https://img.shields.io/badge/-medium-orange)
   - [x] [Sort List](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/LinkedLists/SortList) ![medium](https://img.shields.io/badge/-medium-orange)
-  - [ ] [Reverse Nodes in K-Groups](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/LinkedLists/ReverseNodesink-Group)
+  - [ ] [Reverse Nodes in K-Groups](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/LinkedLists/ReverseNodesink-Group) ![hard](https://img.shields.io/badge/-hard-red)
+  - [x] [Merge K Sorted Lists](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/LinkedLists/MergeKSortedLists) ![hard](https://img.shields.io/badge/-hard-red)
 
 ---
 
@@ -80,9 +80,9 @@
   - [ ] [Zigzag Level Order Traversal](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Trees%20and%20Graphs/ZigZagLevelOrder)
   - [x] [Number of Islands](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Trees%20and%20Graphs/NumberOfIslands) ![medium](https://img.shields.io/badge/-medium-orange)
   - [x] [Insert into Binary Search Tree](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Trees%20and%20Graphs/InsertIntoBinarySearchTree) ![medium](https://img.shields.io/badge/-medium-orange)
+  - [ ] [Course Schedules](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Trees%20and%20Graphs/Course%20Schedule) ![medium](https://img.shields.io/badge/-medium-orange)
   - [ ] [Word Ladder](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Trees%20and%20Graphs/Word%20Ladder) ![hard](https://img.shields.io/badge/-hard-red)
   - [x] [Serialize and Deserialize Binary Tree](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Trees%20and%20Graphs/SerializeAndDeserializeBinaryTree) ![hard](https://img.shields.io/badge/-hard-red)
-  - [ ] [Course Schedules](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Trees%20and%20Graphs/Course%20Schedule)
 
 ---
 
