@@ -61,7 +61,7 @@
   - [x] [Odd Even Linked List](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/LinkedLists/OddEvenLinkedList) ![medium](https://img.shields.io/badge/-medium-orange)
   - [x] [Sort List](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/LinkedLists/SortList) ![medium](https://img.shields.io/badge/-medium-orange)
   - [ ] [Reverse Nodes in K-Groups](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/LinkedLists/ReverseNodesink-Group) ![hard](https://img.shields.io/badge/-hard-red)
-  - [x] [Merge K Sorted Lists](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/LinkedLists/MergeKSortedLists) ![hard](https://img.shields.io/badge/-hard-red)
+  - [x] [Merge K Sorted Lists](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/LinkedLists/MergeKSortedLists) ![hard](https://img.shields.io/badge/-hard-red) ![Divide and Conquer](https://img.shields.io/badge/-divideandconquer-blue) ![Heap](https://img.shields.io/badge/-heap-blue)
 
 ---
 
@@ -82,7 +82,7 @@
   - [x] [Insert into Binary Search Tree](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Trees%20and%20Graphs/InsertIntoBinarySearchTree) ![medium](https://img.shields.io/badge/-medium-orange)
   - [ ] [Course Schedules](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Trees%20and%20Graphs/Course%20Schedule) ![medium](https://img.shields.io/badge/-medium-orange)
   - [ ] [Word Ladder](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Trees%20and%20Graphs/Word%20Ladder) ![hard](https://img.shields.io/badge/-hard-red)
-  - [x] [Serialize and Deserialize Binary Tree](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Trees%20and%20Graphs/SerializeAndDeserializeBinaryTree) ![hard](https://img.shields.io/badge/-hard-red)
+  - [x] [Serialize and Deserialize Binary Tree](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Trees%20and%20Graphs/SerializeAndDeserializeBinaryTree) ![hard](https://img.shields.io/badge/-hard-red) ![Design](https://img.shields.io/badge/-design-blue)
 
 ---
 
@@ -96,4 +96,4 @@
   - [x] [Coin Change](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Dynamic%20Programming/CoinChange) ![medium](https://img.shields.io/badge/-medium-orange)
   - [x] [Unique Paths](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Dynamic%20Programming/UniquePaths) ![medium](https://img.shields.io/badge/-medium-orange)
   - [x] [Minimum Path Sum](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Dynamic%20Programming/MinimumPathSum) ![medium](https://img.shields.io/badge/-medium-orange)
-  - [x] [01 Matrix](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Dynamic%20Programming/01Matrix) ![medium](https://img.shields.io/badge/-medium-orange)
+  - [x] [01 Matrix](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Dynamic%20Programming/01Matrix) ![medium](https://img.shields.io/badge/-medium-orange) ![DFS](https://img.shields.io/badge/-dfs-blue) ![BFS](https://img.shields.io/badge/-bfs-blue)
