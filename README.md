@@ -7,6 +7,8 @@
 
   - [x] [Complement of Base 10 Integer](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Bitwise%20Manipulation/ComplementOfBase10Integer) ![easy](https://img.shields.io/badge/-easy-brightgreen)
 
+---
+
 - [Strings](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Strings)
   - [x] [Valid Parantheses](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Strings/ValidParantheses) ![easy](https://img.shields.io/badge/-easy-brightgreen)
   - [x] [Valid Anagram](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Strings/IsAnagram) ![easy](https://img.shields.io/badge/-easy-brightgreen)
@@ -16,6 +18,9 @@
   - [x] [Longest Substring without Repeating Characters](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Strings/LongestSubstringWithoutRepeatingCharacters) ![medium](https://img.shields.io/badge/-medium-orange)
   - [x] [Group Anagrams](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Strings/GroupAnagrams) ![medium](https://img.shields.io/badge/-medium-orange)
   - [x] [Remove Duplicate Letters](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Strings/RemoveDuplicateLetters) ![medium](https://img.shields.io/badge/-medium-orange)
+
+---
+
 - [Arrays](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Arrays)
 
   - [x] [Binary Search](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Arrays/BinarySearch) ![easy](https://img.shields.io/badge/-easy-brightgreen)
@@ -38,6 +43,9 @@
   - [x] [Combination Sum III](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Arrays/CombinationSumIII) ![medium](https://img.shields.io/badge/-medium-orange) ![backtracking](https://img.shields.io/badge/-backtracking-blue)
   - [x] [Minimum Number Of Arrows To Burst Balloons](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Arrays/MinimumNumberOfArrowsToBurstBalloon) ![medium](https://img.shields.io/badge/-medium-orange)
   - [x] [Bomb Enemies](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Arrays/BombEnemies) ![medium](https://img.shields.io/badge/-medium-orange)
+  - [x] [Meeting Rooms II](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Arrays/MeetingRoomsII) ![medium](https://img.shields.io/badge/-medium-orange) ![heap](https://img.shields.io/badge/-heap-blue) ![Greedy](https://img.shields.io/badge/-greedy-blue)
+
+---
 
 - [Linked Lists](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/LinkedLists)
 
@@ -53,6 +61,8 @@
   - [x] [Odd Even Linked List](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/LinkedLists/OddEvenLinkedList) ![medium](https://img.shields.io/badge/-medium-orange)
   - [x] [Sort List](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/LinkedLists/SortList) ![medium](https://img.shields.io/badge/-medium-orange)
   - [ ] [Reverse Nodes in K-Groups](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/LinkedLists/ReverseNodesink-Group)
+
+---
 
 - [Trees and Graphs](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Trees%20and%20Graphs)
 
@@ -73,7 +83,10 @@
   - [x] [Serialize and Deserialize Binary Tree](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Trees%20and%20Graphs/SerializeAndDeserializeBinaryTree) ![hard](https://img.shields.io/badge/-hard-red)
   - [ ] [Course Schedules](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Trees%20and%20Graphs/Course%20Schedule)
 
+---
+
 - [Dynamic Programming](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Dynamic%20Programming)
+
   - [x] [Climbing Stairs](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Dynamic%20Programming/ClimbingStairs) ![easy](https://img.shields.io/badge/-easy-brightgreen)
   - [x] [House Robber](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Dynamic%20Programming/HouseRobber) ![easy](https://img.shields.io/badge/-easy-brightgreen)
   - [x] [House Robber II](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Dynamic%20Programming/HouseRobberII) ![medium](https://img.shields.io/badge/-medium-orange)
