@@ -3,13 +3,14 @@
 
 ## Solutions:
 
-- [Bitwise Manipulation](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Bitwise%20Manipulation)
+<h3 align="center" href="https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Bitwise%20Manipulation">Bitwise Manipulation</h3>
 
-  - [x] [Complement of Base 10 Integer](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Bitwise%20Manipulation/ComplementOfBase10Integer) ![easy](https://img.shields.io/badge/-easy-brightgreen)
+- [x] [Complement of Base 10 Integer](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Bitwise%20Manipulation/ComplementOfBase10Integer) ![easy](https://img.shields.io/badge/-easy-brightgreen)
 
 ---
 
 - [Strings](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Strings)
+
   - [x] [Valid Parantheses](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Strings/ValidParantheses) ![easy](https://img.shields.io/badge/-easy-brightgreen)
   - [x] [Valid Anagram](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Strings/IsAnagram) ![easy](https://img.shields.io/badge/-easy-brightgreen)
   - [x] [Count and Say](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Strings/CountAndSay) ![easy](https://img.shields.io/badge/-easy-brightgreen)
