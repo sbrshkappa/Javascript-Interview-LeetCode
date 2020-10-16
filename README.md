@@ -3,7 +3,7 @@
 
 ## Solutions:
 
-<h3 align="center" href="https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Bitwise%20Manipulation">Bitwise Manipulation</h3>
+<h3 align="left" href="https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Bitwise%20Manipulation">Bitwise Manipulation</h3>
 
 - [x] [Complement of Base 10 Integer](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Bitwise%20Manipulation/ComplementOfBase10Integer) ![easy](https://img.shields.io/badge/-easy-brightgreen)
 
