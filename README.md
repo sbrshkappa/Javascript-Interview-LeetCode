@@ -44,6 +44,7 @@
   - [x] [Minimum Number Of Arrows To Burst Balloons](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Arrays/MinimumNumberOfArrowsToBurstBalloon) ![medium](https://img.shields.io/badge/-medium-orange)
   - [x] [Bomb Enemies](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Arrays/BombEnemies) ![medium](https://img.shields.io/badge/-medium-orange)
   - [x] [Meeting Rooms II](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Arrays/MeetingRoomsII) ![medium](https://img.shields.io/badge/-medium-orange) ![heap](https://img.shields.io/badge/-heap-blue) ![Greedy](https://img.shields.io/badge/-greedy-blue)
+  - [x] [Rotate Array](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Arrays/RotateArray) ![medium](https://img.shields.io/badge/-medium-orange)
 
 ---
 
