@@ -19,6 +19,7 @@
 - [x] [Longest Substring without Repeating Characters](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Strings/LongestSubstringWithoutRepeatingCharacters) ![medium](https://img.shields.io/badge/-medium-orange)
 - [x] [Group Anagrams](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Strings/GroupAnagrams) ![medium](https://img.shields.io/badge/-medium-orange)
 - [x] [Remove Duplicate Letters](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Strings/RemoveDuplicateLetters) ![medium](https://img.shields.io/badge/-medium-orange)
+- [x] [Repeated DNA Sequences](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Strings/RepeatedDNASequences) ![medium](https://img.shields.io/badge/-medium-orange)
 
 ---
 
