@@ -29,6 +29,7 @@
 - [x] [Merge Sorted Arrays](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Arrays/MergeSortedArrays) ![easy](https://img.shields.io/badge/-easy-brightgreen)
 - [x] [Contains Duplicates](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Arrays/ContainsDuplicate) ![easy](https://img.shields.io/badge/-easy-brightgreen)
 - [x] [Best Time to Buy and Sell Stock](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Arrays/BestTimeToBuyAndSellStock) ![easy](https://img.shields.io/badge/-easy-brightgreen)
+- [x] [Best Time to Buy and Sell Stock II](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Arrays/BestTimeToBuyAndSellStockII) ![easy](https://img.shields.io/badge/-easy-brightgreen)
 - [x] [Two Sum](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Arrays/TwoSum) ![easy](https://img.shields.io/badge/-easy-brightgreen)
 - [x] [Two Sum III - Data Structure Design](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Arrays/TwoSumIII-DataStructureDesign) ![easy](https://img.shields.io/badge/-easy-brightgreen)
 - [x] [Maximum Sub-Array](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Arrays/MaximumSubArray) ![easy](https://img.shields.io/badge/-easy-brightgreen)
