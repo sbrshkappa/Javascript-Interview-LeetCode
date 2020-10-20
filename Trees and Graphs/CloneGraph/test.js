@@ -22,6 +22,6 @@ node3.neighbors.push(node4);
 node4.neighbors.push(node1);
 node4.neighbors.push(node3);
 
-test("Simple Clone test", () => {
+test("clone graph test with simple graph returning first node of cloned graph", () => {
   expect(cloneGraph(node1)).toEqual(node1);
 });
