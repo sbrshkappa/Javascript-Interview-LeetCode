@@ -50,6 +50,7 @@
 - [x] [Meeting Rooms II](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Arrays/MeetingRoomsII) ![medium](https://img.shields.io/badge/-medium-orange) ![heap](https://img.shields.io/badge/-heap-blue) ![Greedy](https://img.shields.io/badge/-greedy-blue)
 - [x] [Rotate Array](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Arrays/RotateArray) ![medium](https://img.shields.io/badge/-medium-orange)
 - [x] [Previous Permutation with One Swap](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Arrays/PreviousPermutationWithOneSwap) ![medium](https://img.shields.io/badge/-medium-orange)
+- [x] [Asteroid Collision](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Arrays/AsteroidCollision) ![medium](https://img.shields.io/badge/-medium-orange) ![Greedy](https://img.shields.io/badge/-greedy-blue)
 
 ---
 
