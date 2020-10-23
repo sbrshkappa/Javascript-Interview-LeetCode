@@ -40,6 +40,7 @@
 - [x] [Day of the Week](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Arrays/DayOfTheWeek) ![easy](https://img.shields.io/badge/-easy-brightgreen)
 - [x] [Three Sum](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Arrays/ThreeSum) ![medium](https://img.shields.io/badge/-medium-orange)
 - [x] [Product of Array Except Self](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Arrays/ProductOfArrayExceptSelf) ![medium](https://img.shields.io/badge/-medium-orange)
+- [x] [Merge Intervals](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Arrays/MergeIntervals) ![medium](https://img.shields.io/badge/-medium-orange)
 - [x] [Container with most water](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Arrays/ContainerWithMostWater) ![medium](https://img.shields.io/badge/-medium-orange)
 - [x] [Remove Covered Intervals](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Arrays/RemoveCoveredIntervals) ![medium](https://img.shields.io/badge/-medium-orange) ![greedy](https://img.shields.io/badge/-greedy-blue)
 - [x] [K-Diff Pairs in Array](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Arrays/K-DiffPairsInArray) ![medium](https://img.shields.io/badge/-medium-orange)
