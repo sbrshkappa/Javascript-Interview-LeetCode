@@ -83,6 +83,7 @@
 - [x] [Trim BST](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Trees%20and%20Graphs/TrimBST) ![easy](https://img.shields.io/badge/-easy-brightgreen)
 - [x] [Maximum Depth of Binary Tree](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Trees%20and%20Graphs/MaximumDepthOfBinaryTree) ![easy](https://img.shields.io/badge/-easy-brightgreen)
 - [x] [Minimum Depth of Binary Tree](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Trees%20and%20Graphs/MinimumDepthOfBinaryTree) ![easy](https://img.shields.io/badge/-easy-brightgreen)
+- [x] [Path Sum III](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Trees%20and%20Graphs/PathSumIII) ![medium](https://img.shields.io/badge/-medium-orange)
 - [x] [Level Order Traversal](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Trees%20and%20Graphs/Level%20Order%20Traversal) ![medium](https://img.shields.io/badge/-medium-orange)
 - [x] [Pre Order Traversal](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Trees%20and%20Graphs/PreOrderTraversal) ![medium](https://img.shields.io/badge/-medium-orange)
 - [x] [In Order Traversal](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Trees%20and%20Graphs/InOrderTraversal) ![medium](https://img.shields.io/badge/-medium-orange)
