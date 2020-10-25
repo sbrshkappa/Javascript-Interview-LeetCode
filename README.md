@@ -52,6 +52,7 @@
 - [x] [Rotate Array](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Arrays/RotateArray) ![medium](https://img.shields.io/badge/-medium-orange)
 - [x] [Previous Permutation with One Swap](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Arrays/PreviousPermutationWithOneSwap) ![medium](https://img.shields.io/badge/-medium-orange)
 - [x] [Asteroid Collision](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Arrays/AsteroidCollision) ![medium](https://img.shields.io/badge/-medium-orange) ![Greedy](https://img.shields.io/badge/-greedy-blue)
+- [x] [132 Pattern](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Arrays/132Pattern) ![medium](https://img.shields.io/badge/-medium-orange) ![Stack](https://img.shields.io/badge/-stack-blue)
 
 ---
 
