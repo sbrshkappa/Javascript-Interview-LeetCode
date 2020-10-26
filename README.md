@@ -54,6 +54,7 @@
 - [x] [Asteroid Collision](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Arrays/AsteroidCollision) ![medium](https://img.shields.io/badge/-medium-orange) ![Greedy](https://img.shields.io/badge/-greedy-blue)
 - [x] [132 Pattern](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Arrays/132Pattern) ![medium](https://img.shields.io/badge/-medium-orange) ![Stack](https://img.shields.io/badge/-stack-blue)
 - [x] [Bag of Tokens](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Arrays/BagOfTokens) ![medium](https://img.shields.io/badge/-medium-orange) ![Greedy](https://img.shields.io/badge/-greedy-blue)
+- [x] [Champagne Tower](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Arrays/ChampagneTower) ![medium](https://img.shields.io/badge/-medium-orange)
 
 ---
 
