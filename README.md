@@ -112,6 +112,7 @@
 - [x] [House Robber II](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Dynamic%20Programming/HouseRobberII) ![medium](https://img.shields.io/badge/-medium-orange)
 - [x] [Jump Game](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Dynamic%20Programming/CanJump) ![medium](https://img.shields.io/badge/-medium-orange)
 - [x] [Longest Increasing Subsequence](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Dynamic%20Programming/LongestIncreasingSubsequence) ![medium](https://img.shields.io/badge/-medium-orange)
+- [x] [Number of Longest Increasing Subsequence](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Dynamic%20Programming/NumberOfLongestIncreasingSubsequence) ![medium](https://img.shields.io/badge/-medium-orange)
 - [x] [Coin Change](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Dynamic%20Programming/CoinChange) ![medium](https://img.shields.io/badge/-medium-orange)
 - [x] [Unique Paths](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Dynamic%20Programming/UniquePaths) ![medium](https://img.shields.io/badge/-medium-orange)
 - [x] [Minimum Path Sum](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Dynamic%20Programming/MinimumPathSum) ![medium](https://img.shields.io/badge/-medium-orange)
