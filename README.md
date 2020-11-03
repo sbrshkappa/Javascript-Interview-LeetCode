@@ -39,6 +39,7 @@
 - [x] [Implement Queue using Stacks](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Arrays/ImplementQueueUsingStacks) ![easy](https://img.shields.io/badge/-easy-brightgreen)
 - [x] [Day of the Week](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Arrays/DayOfTheWeek) ![easy](https://img.shields.io/badge/-easy-brightgreen)
 - [x] [Summary Ranges](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Arrays/SummaryRanges) ![easy](https://img.shields.io/badge/-easy-brightgreen)
+- [x] [Meeting Rooms](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Arrays/MeetingRooms) ![easy](https://img.shields.io/badge/-easy-brightgreen)
 - [x] [Three Sum](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Arrays/ThreeSum) ![medium](https://img.shields.io/badge/-medium-orange)
 - [x] [Product of Array Except Self](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Arrays/ProductOfArrayExceptSelf) ![medium](https://img.shields.io/badge/-medium-orange)
 - [x] [Merge Intervals](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Arrays/MergeIntervals) ![medium](https://img.shields.io/badge/-medium-orange)
