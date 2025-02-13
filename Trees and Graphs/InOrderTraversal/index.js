@@ -54,23 +54,36 @@ Recursive solution is trivial, could you do it iteratively?
  * @param {TreeNode} root
  * @return {number[]}
  */
-const inorderTraversal = function(root) {
-    
-    let stack = [];
-    let traversal = [];
-    
-    while(root || stack.length){
-        if(root){
-            stack.push(root);
-            root = root.left;
-        } else {
-            root = stack.pop();
-            traversal.push(root.val);
-            root = root.right;
-        }
+const inorderTraversal = function (root) {
+  let stack = [];
+  let traversal = [];
+
+  while (root || stack.length) {
+    if (root) {
+      stack.push(root);
+      root = root.left;
+    } else {
+      root = stack.pop();
+      traversal.push(root.val);
+      root = root.right;
     }
-    
-    return traversal;
+  }
+
+  return traversal;
 };
 
-module.exports = inorderTraversal;
+const inorderTraversalRecursive = function (root) {
+  let traversal = [];
+
+  function dfs(node) {
+    if (!node) return;
+    dfs(node.left);
+    traversal.push(node.val);
+    dfs(node.right);
+  }
+
+  dfs(root);
+  return traversal;
+};
+
+module.exports = { inorderTraversal, inorderTraversalRecursive };
