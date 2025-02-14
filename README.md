@@ -20,6 +20,7 @@
 - [x] [Group Anagrams](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Strings/GroupAnagrams) ![medium](https://img.shields.io/badge/-medium-orange)
 - [x] [Remove Duplicate Letters](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Strings/RemoveDuplicateLetters) ![medium](https://img.shields.io/badge/-medium-orange)
 - [x] [Repeated DNA Sequences](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Strings/RepeatedDNASequences) ![medium](https://img.shields.io/badge/-medium-orange)
+- [x] [Word Search](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Strings/WordSearch) ![medium](https://img.shields.io/badge/-medium-orange)
 
 ---
 
@@ -85,6 +86,7 @@
 - [x] [Invert a Binary Tree](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Trees%20and%20Graphs/InvertBinaryTree) ![easy](https://img.shields.io/badge/-easy-brightgreen)
 - [x] [Path Sum](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Trees%20and%20Graphs/PathSum) ![easy](https://img.shields.io/badge/-easy-brightgreen)
 - [x] [Range Sum BST](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Trees%20and%20Graphs/RangeSumBST) ![easy](https://img.shields.io/badge/-easy-brightgreen)
+- [x] [Same Tree - DFS](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Trees%20and%20Graphs/SameTree-DFS) ![easy](https://img.shields.io/badge/-easy-brightgreen)
 - [x] [Trim BST](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Trees%20and%20Graphs/TrimBST) ![easy](https://img.shields.io/badge/-easy-brightgreen)
 - [x] [Maximum Depth of Binary Tree](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Trees%20and%20Graphs/MaximumDepthOfBinaryTree) ![easy](https://img.shields.io/badge/-easy-brightgreen)
 - [x] [Minimum Depth of Binary Tree](https://github.com/sbrshkappa/Javascript-Interview-LeetCode/tree/master/Trees%20and%20Graphs/MinimumDepthOfBinaryTree) ![easy](https://img.shields.io/badge/-easy-brightgreen)
